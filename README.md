@@ -90,3 +90,8 @@ The project utilizes a **Star Schema** with fact and dimension tables to ensure 
 * **Power Query** – Data preparation & cleaning
 * **DAX** – Complex KPIs and advanced DAX measures
 * **ERD (Entity Relationship Diagram)** - To create Data Model Schema
+
+  ---
+
+## 👤 Author
+**Moamen Mohamed Raafat** [LinkedIn Profile](https://www.linkedin.com/in/moamen-mohamed-raafat/) | [Portfolio Website](https://moumenraafat.github.io/MoamenMohamedRaafat.github.io/)
