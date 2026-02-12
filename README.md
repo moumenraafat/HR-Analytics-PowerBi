@@ -1,5 +1,5 @@
 
-# HR Analytics Dashboard (Power Bi)
+# 📊 HR Analytics Dashboard (Power Bi)
 
 ## 📌 Overview
 In this project, I used **Power BI** to create an interactive **HR Analytics Dashboard** that helps organizations decision makers track and analyze their workforce. 
